@@ -27,3 +27,5 @@ resource "aws_instance" "ubuntu" {
     "Linux Distribution" = "Ubuntu"
   }
 }
+
+#EDITADO PARA TESTE
